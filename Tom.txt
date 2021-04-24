@@ -1,1 +1,1 @@
-Salut
+Student{firstName='Toto', lastName='Lecommandoux', classe='6ème 1'}

@@ -10,7 +10,6 @@ public class FilesService {
      * FILES
      */
 
-
     public static void createFile(String fileNameAndType, String pathName) {
         try {
             File myFile = new File(pathName + "\\" + fileNameAndType);

@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cce2d49-feee-4c81-9af8-c852df99b7c5" name="Default Changelist" comment="Setup JAVA project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FilesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tom_Lecommandoux.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tom_Lecommandoux.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FilesServiceJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tom.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AppFirstGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppFirstGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FilesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FilesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AppFirstGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FilesService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Login.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +39,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1qyDlZUxnlfBcimrzDrroOYjByj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,7 +60,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="AppFirstGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -87,10 +116,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Setup JAVA project" />
     <option name="LAST_COMMIT_MESSAGE" value="Setup JAVA project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
