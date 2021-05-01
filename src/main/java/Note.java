@@ -3,6 +3,10 @@ public class Note {
     private String matiere;
     private int note;
 
+    public Note(){
+
+    }
+
     public Note(String matiere, int note) {
         this.matiere = matiere;
         this.note = note;

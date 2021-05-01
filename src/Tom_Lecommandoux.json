@@ -1,23 +1,27 @@
 {
-  "student": {
-    "firstName": "Toto",
-    "lastName": "Lecommandoux",
-    "classe": "6ème1",
-    "notes": [{
+  "firstName": "Toto",
+  "lastName": "Lecommandoux",
+  "classe": "6ème1",
+  "notes": [
+    {
       "matiere": "Français",
       "note": 10
-    },{
+    },
+    {
       "matiere": "Anglais",
       "note": 20
-    },{
+    },
+    {
       "matiere": "Chinois",
       "note": 9
-    },{
+    },
+    {
       "matiere": "Espagnol",
       "note": 13
-    },{
+    },
+    {
       "matiere": "Maths",
       "note": 20
-    }]
-  }
+    }
+  ]
 }

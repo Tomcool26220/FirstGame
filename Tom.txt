@@ -1,1 +1,1 @@
-Student{firstName='Toto', lastName='Lecommandoux', classe='6ème 1'}
+Student{firstName='Toto', lastName='Lecommandoux', classe='6ème 1', notes=null}

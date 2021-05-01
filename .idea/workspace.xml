@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cce2d49-feee-4c81-9af8-c852df99b7c5" name="Default Changelist" comment="Setup JAVA project">
-      <change afterPath="$PROJECT_DIR$/Tom_Lecommandoux.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tom_Lecommandoux.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FilesServiceJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voiture.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Voiture.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tom.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tom_Lecommandoux.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tom_Lecommandoux.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tom_Lecommandoux.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tom_Lecommandoux.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AppFirstGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppFirstGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FilesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FilesService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AppFirstGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FilesService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FilesServiceJSON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FilesServiceJSON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Note.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +58,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tlegu\Desktop\Java\Cours\FirstGame" />
+      <recent name="C:\Users\tlegu\Desktop\Java\Cours\FirstGame\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
